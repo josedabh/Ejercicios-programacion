@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 /*Crear una función que pida por teclado 5 elementos y los almacene en una tabla*/
 
-public class Ejercicio3 {
+public class Ej3almacenarEnTabla {
 
     /*Introducir una funcion donde se introduce un numero y que genere n numeros*/
     static int[] numAleatorios(int cont){

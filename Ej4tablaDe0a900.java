@@ -8,7 +8,7 @@ package ejercicioarrays;
 
 import java.util.Arrays;
 
-public class Ejercicio4 {
+public class Ej4tablaDe0a900 {
     
     public static void main(String[] args){
         

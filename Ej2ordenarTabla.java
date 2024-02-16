@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 //Ordenar la siguiente tabla [5,7,8,4,3,6,0,0,8,1] de menor a mayor.
 
-public class Ejercicio2 {
+public class Ej2ordenarTabla {
 
     public static void main(String[] args) {
         
