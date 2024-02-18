@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /*Crear una función a la que se le pase una tabla y devuelva otra igual pero
 con un elemento más (que también se le pasa como parámetro) */
-public class Ej6tablaContablaYElem {
+public class Ej6ArrayConArrayYElem {
     /*Creamos una funcion donde introducimos los numeros en la tabla con un contador(c)*/
     static int[] nTabla(int c){
         int i = 0;
